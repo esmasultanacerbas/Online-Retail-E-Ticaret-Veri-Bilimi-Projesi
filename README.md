@@ -8,7 +8,7 @@ Ad Soyad: Esma Sultan Acerbaş
 Öğrenci Numarası: 1306240105
 
 
-Araştırma Soruları
+## Araştırma Soruları
 
 Proje aşağıdaki üç temel soruya odaklanarak iş kararlarını destekleyecek içgörüler üretmeyi hedeflemektedir:
 
@@ -20,15 +20,15 @@ S3 - Birlikte Satın Alma Analizi: Aynı fatura içinde hangi ürünler en sık 
 
 Veri Seti Bilgileri
 
-Veri Seti Adı: Online Retail Dataset
+## Veri Seti Adı: Online Retail Dataset
 
-Kaynak: UCI Machine Learning Repository (Kaggle üzerinden temin edilmiştir)
+### Kaynak: UCI Machine Learning Repository (Kaggle üzerinden temin edilmiştir)
 
-Bağlantı: [Kaggle - Online Retail](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+### Bağlantı: [Kaggle - Online Retail](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
-İçerik: Aralık 2010 ile Aralık 2011 arasında gerçekleşen yaklaşık 541.000 işlem kaydı.
+### İçerik: Aralık 2010 ile Aralık 2011 arasında gerçekleşen yaklaşık 541.000 işlem kaydı.
 
-Kullanılan Teknolojiler ve Kütüphaneler
+### Kullanılan Teknolojiler ve Kütüphaneler
 
 Proje Python programlama dili ile Jupyter Lab ortamında geliştirilmiştir. Gerekli kütüphaneler aşağıda listelenmiştir:
 
@@ -46,7 +46,7 @@ Projeyi Çalıştırma Talimatları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-Repository'yi Klonlayın:
+## Repository'yi Klonlayın:
 
 git clone [https://github.com/](https://github.com/)[esmasultanacerbas]/[Online-Retail-E-Ticaret-Veri-Bilimi-Projesi-
 ].git
@@ -55,31 +55,31 @@ cd [Online-Retail-E-Ticaret-Veri-Bilimi-Projesi-
 
 
 
-Gerekli Kütüphaneleri Kurun:
+## Gerekli Kütüphaneleri Kurun:
 Terminal veya komut satırında aşağıdaki komutu çalıştırarak gerekli paketleri yükleyin:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 
-Veri Setini İndirin:
+## Veri Setini İndirin:
 
 Kaggle'daki Online Retail sayfasından Online Retail.csv (veya OnlineRetail.csv) dosyasını indirin.
 
 İndirdiğiniz CSV dosyasını, klonladığınız proje klasörünün ana dizinine (.ipynb dosyası ile aynı yere) yerleştirin.
 
-Jupyter Notebook'u Başlatın:
+## Jupyter Notebook'u Başlatın:
 Proje dizininde Jupyter Lab veya Notebook'u çalıştırın:
 
 jupyter lab
-# veya
+veya 
 jupyter notebook
 
 
 
-Kodu Çalıştırın: Açılan tarayıcı penceresinde online_retail_project.ipynb dosyasını açın ve hücreleri sırasıyla çalıştırarak analizleri inceleyin.
+## Kodu Çalıştırın: Açılan tarayıcı penceresinde online_retail_project.ipynb dosyasını açın ve hücreleri sırasıyla çalıştırarak analizleri inceleyin.
 
-Proje Çıktıları ve Temel Bulgular
+## Proje Çıktıları ve Temel Bulgular
 
 Satışların büyük çoğunluğu Birleşik Krallık (UK) kaynaklıdır. Yılın son çeyreğinde (özellikle Kasım) belirgin bir satış artışı (mevsimsellik) gözlemlenmiştir.
 
@@ -87,6 +87,6 @@ K-Means kümeleme algoritması ile müşteriler başarıyla 4 segmente (High-Val
 
 En çok birlikte satılan ürün çiftleri belirlenerek "Bunu alanlar bunu da aldı" modülleri için temel kurallar oluşturulmuştur.
 
-Lisans
+## Lisans
 
 Bu proje, eğitim amaçlı oluşturulmuş olup MIT Lisansı altındadır. Veri seti UCI Machine Learning Repository'ye aittir ve açık kaynak olarak paylaşılmıştır.
