@@ -4,6 +4,7 @@
 Bu proje, uluslararası bir e-ticaret şirketinin işlem verilerini kullanarak müşteri davranışlarını analiz etmeyi ve veriye dayalı iş stratejileri geliştirmeyi amaçlayan bir veri bilimi çalışmasıdır. Proje kapsamında veri temizleme, özellik mühendisliği (feature engineering), keşifsel veri analizi (EDA), müşteri segmentasyonu (K-Means) ve sepet analizi (Market Basket Analysis) uygulanmıştır.
 
 Ad Soyad: Esma Sultan Acerbaş
+
 Öğrenci Numarası: 1306240105
 
 
