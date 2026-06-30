@@ -52,9 +52,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ### Repository'yi Klonlayın:
 
-git clone [https://github.com/]https://github.com/esmasultanacerbas/Online-Retail-E-Ticaret-Veri-Bilimi-Projesi-.git
+git clone https://github.com/esmasultanacerbas/Online-Retail-E-Ticaret-Veri-Bilimi-Projesi.git
 
-cd [Online-Retail-E-Ticaret-Veri-Bilimi-Projesi]
+cd Online-Retail-E-Ticaret-Veri-Bilimi-Projesi
 
 
 
